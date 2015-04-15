@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTestRunner.UnitTests", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8A2AB7B7-3C0D-4254-A141-AB678121D99C}"
 	ProjectSection(SolutionItems) = preProject
-		..\.nuget\packages.config = ..\.nuget\packages.config
+		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTestRunner.SampleUnitTests", "ProTestRunner.SampleUnitTests\ProTestRunner.SampleUnitTests.csproj", "{AC5F6CFD-E34F-4C3D-A5C2-75085AD32914}"
